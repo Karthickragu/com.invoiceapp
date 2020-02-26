@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75730" started-at="2020-01-17T16:54:31 IST" finished-at="2020-01-17T16:55:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75730" started-at="2020-01-17T16:54:31 IST" finished-at="2020-01-17T16:55:47 IST">
+      <class name="com.invoiceapp.Test.Regression_test">
+        <test-method status="PASS" signature="Prerequisite(java.lang.String)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="Prerequisite" is-config="true" duration-ms="20693" started-at="2020-01-17T16:54:10 IST" finished-at="2020-01-17T16:54:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android-9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Prerequisite -->
+        <test-method status="PASS" signature="Prerequsites()[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="Prerequsites" is-config="true" duration-ms="413" started-at="2020-01-17T16:54:31 IST" finished-at="2020-01-17T16:54:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Prerequsites -->
+        <test-method status="PASS" signature="initPages()[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="initPages" is-config="true" duration-ms="272" started-at="2020-01-17T16:54:31 IST" finished-at="2020-01-17T16:54:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method status="PASS" signature="startup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="startup" is-config="true" duration-ms="3164" started-at="2020-01-17T16:54:32 IST" finished-at="2020-01-17T16:54:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.invoiceapp.Test.Regression_test.TC002() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android-9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="TC002()[pri:2, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="TC002" duration-ms="4642" started-at="2020-01-17T16:54:35 IST" finished-at="2020-01-17T16:54:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="Exittest(java.lang.reflect.Method)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="Exittest" is-config="true" duration-ms="1966" started-at="2020-01-17T16:54:39 IST" finished-at="2020-01-17T16:54:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.invoiceapp.Test.Regression_test.TC002() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exittest -->
+        <test-method status="PASS" signature="startup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="startup" is-config="true" duration-ms="3630" started-at="2020-01-17T16:54:41 IST" finished-at="2020-01-17T16:54:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.invoiceapp.Test.Regression_test.TC003() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android-9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="TC003()[pri:3, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="TC003" duration-ms="13264" started-at="2020-01-17T16:54:45 IST" finished-at="2020-01-17T16:54:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method status="PASS" signature="Exittest(java.lang.reflect.Method)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="Exittest" is-config="true" duration-ms="357" started-at="2020-01-17T16:54:58 IST" finished-at="2020-01-17T16:54:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.invoiceapp.Test.Regression_test.TC003() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exittest -->
+        <test-method status="PASS" signature="startup(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="startup" is-config="true" duration-ms="3346" started-at="2020-01-17T16:54:59 IST" finished-at="2020-01-17T16:55:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.invoiceapp.Test.Regression_test.TC004() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android-9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="TC004()[pri:4, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="TC004" duration-ms="44228" started-at="2020-01-17T16:55:02 IST" finished-at="2020-01-17T16:55:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="Exittest(java.lang.reflect.Method)[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="Exittest" is-config="true" duration-ms="386" started-at="2020-01-17T16:55:46 IST" finished-at="2020-01-17T16:55:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.invoiceapp.Test.Regression_test.TC004() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exittest -->
+        <test-method status="PASS" signature="TerminateTest()[pri:0, instance:com.invoiceapp.Test.Regression_test@89f8d58b]" name="TerminateTest" is-config="true" duration-ms="105" started-at="2020-01-17T16:55:47 IST" finished-at="2020-01-17T16:55:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminateTest -->
+      </class> <!-- com.invoiceapp.Test.Regression_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

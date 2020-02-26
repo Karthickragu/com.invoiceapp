@@ -1,0 +1,5 @@
+com\invoiceapp\Pages\Company_setup.class
+com\invoiceapp\Pages\Permissions.class
+com\invoiceapp\Pages\Splashscreen.class
+com\invoiceapp\Test\Regression_test.class
+com\invoiceapp\Pages\Clientsetup.class
