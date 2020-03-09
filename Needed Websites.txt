@@ -1,0 +1,16 @@
+https://www.seleniumeasy.com/appium-tutorials/how-to-start-appium-server-programmatically
+
+https://github.com/appium/appium/issues/11937
+
+https://stackoverflow.com/questions/19655184/no-compiler-is-provided-in-this-environment-perhaps-you-are-running-on-a-jre-ra
+
+https://stackoverflow.com/questions/20345451/maven-compilation-error-package-org-testng-annotations-does-not-exist
+
+https://www.seleniumeasy.com/maven-tutorials/choose-selected-testng-xml-files-to-execute-using-maven
+	mvn clean test -Dsurefire.suiteXmlFiles=X_Android-80.xml
+	mvn test -Dsurefire.suiteXmlFiles=X_Android-81.xml
+	mvn test -Dsurefire.suiteXmlFiles=X_Android-9.xml
+	
+	
+	java -jar jenkins.war --httpPort=8081
+	

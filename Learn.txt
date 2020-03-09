@@ -1,0 +1,22 @@
+Time to Learn the below one's:
+	1. Java Generics in practice with Constructor 
+	2. Docker
+	3. GIT
+	3. STF try for any trail version
+	4. Jenkins
+	5. Perfecto
+	
+	
+	
+Manufacturer Name and UPC needs to be checked
+Delta file, test data
+
+
+SELECT COUNT( CRITMFID ), CRITMFID , CRITMFNM FROM FWITEMCRIT GROUP 
+BY CRITMFID, CRITMFNM HAVING COUNT( CRITMFID ) > 1 ORDER BY COUNT(  
+CRITMFID )                                                          
+
+
+My Last working date in Mindtree is going to be March 30th of 2020 and I will join Atkins from March 31st of 2020.
+
+Note: I'm having a discussion with Leadership team and HR team for getting early release. By any chance If I get I will inform and Join ASAP.
